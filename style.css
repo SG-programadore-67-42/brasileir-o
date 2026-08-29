@@ -1,0 +1,29 @@
+* {
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+table, td {
+    border: 2px solid rgb(0, 0, 0);
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr:nth-child(odd) {
+    background-color: darkred;
+    color: white
+}
+
+td {
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
